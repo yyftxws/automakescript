@@ -1,1 +1,1 @@
-# automakescript
+This is an example script that automatically generates a Makefile tool
